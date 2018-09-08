@@ -30,5 +30,3 @@ print("Concatenazione dizionari: ", _dict)
 _dict2.clear()
 print("Eliminazione lista:", _dict2)
 
-#aggiungo una modifica per testare git
-print("git"
