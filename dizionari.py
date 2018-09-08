@@ -30,3 +30,5 @@ print("Concatenazione dizionari: ", _dict)
 _dict2.clear()
 print("Eliminazione lista:", _dict2)
 
+# nuovo commit per branch master 
+print("Sono sul branch master commit 3")
