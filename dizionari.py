@@ -30,3 +30,5 @@ print("Concatenazione dizionari: ", _dict)
 _dict2.clear()
 print("Eliminazione lista:", _dict2)
 
+# aggiungo modifica che metto committo su branch2
+print("Hello branch 2")
